@@ -1,1 +1,0 @@
-gcc ./MyDiskBenchmark.c -o MyDiskBenchmark -pthread -lpthread
